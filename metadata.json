@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-05-23T09:16:20.728Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["dog","horse","elephone"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-05-23T10:44:26.041Z","userMetadata":{},"modelName":"animal 3","labels":["dog","horse","elephone","cat","cow","sheep"]}
